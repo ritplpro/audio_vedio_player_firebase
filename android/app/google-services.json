@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061556797881",
+    "project_id": "audio-vedio-player",
+    "storage_bucket": "audio-vedio-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061556797881:android:3e4eeed996c045abd2f668",
+        "android_client_info": {
+          "package_name": "av.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pGNpynhURGBq3xlHzpS-6Hc3eE_EXMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
